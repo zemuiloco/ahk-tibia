@@ -2,7 +2,7 @@
 ; TODO(feat): Disable if I want to write something on medivia
 
 #HotIf WinActive("Medivia")
-Space::Main
+XButton2::Main
 
 Main() {
   x := 1573
