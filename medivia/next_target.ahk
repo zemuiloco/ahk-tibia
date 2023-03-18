@@ -1,4 +1,6 @@
-; TODO: Disable if I want to write something on medivia
+; TODO(bug): The hotkey are allowed on medivia website :(
+; TODO(feat): Disable if I want to write something on medivia
+
 #HotIf WinActive("Medivia")
 Space::Main
 
